@@ -24,6 +24,7 @@ The project includes:
 - Visual Studio Code
 - ChatGPT
 - Picsart
+- remove.bg
 
 ## Author
 Jalen Charles
