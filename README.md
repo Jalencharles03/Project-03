@@ -17,10 +17,13 @@ The project includes:
 - [Project Retrospective](docs/retrospective.md)
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 - GitHub Pages
 - GitHub
+- Visual Studio Code
+- ChatGPT
+- Picsart
 
 ## Author
 Jalen Charles
