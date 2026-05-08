@@ -9,7 +9,7 @@ The project includes:
 - Project management documentation, including a scope statement, project plan, and retrospective reflection
 
 ## Live Website
-[View the Live Website](https://jalencharles03.github.io/Project-03/)
+[View the Live Website]([https://jalencharles03.github.io/Project-03/](https://jalencharles03.github.io/Project-03/))
 
 ## Documentation
 - [Project Scope Statement](docs/scope.md)
